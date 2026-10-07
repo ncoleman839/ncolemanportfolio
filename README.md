@@ -1,2 +1,2 @@
 # ncolemanportfolio
-This is where I store my projects and other files I have done
+This is where I store my projects and other files I have done, such as diagrams explaining how a user story unfolds
